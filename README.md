@@ -1,4 +1,4 @@
-# Deploying Flexcube in OCI OKE with ORACLE VISUAL BUILDER STUDIO
+# Deploying Flexcube in OCI and OKE
 
 This document will show how to:
 
